@@ -1,0 +1,65 @@
+{
+    "tile_size": 1.0,
+    "block_size": 0.1,
+    "tiles": [
+        {
+            "x": 171,
+            "y": -42,
+            "index": 47871
+        },
+        {
+            "x": 171,
+            "y": -41,
+            "index": 47511
+        },
+        {
+            "x": 171,
+            "y": -40,
+            "index": 47151
+        },
+        {
+            "x": 172,
+            "y": -42,
+            "index": 47872
+        },
+        {
+            "x": 172,
+            "y": -41,
+            "index": 47512
+        },
+        {
+            "x": 172,
+            "y": -40,
+            "index": 47152
+        },
+        {
+            "x": 173,
+            "y": -42,
+            "index": 47873
+        },
+        {
+            "x": 173,
+            "y": -41,
+            "index": 47513
+        },
+        {
+            "x": 173,
+            "y": -40,
+            "index": 47153
+        }
+    ],
+    "pixel_size": 0.01,
+    "layers": [
+        {
+            "name": "mean_annual_temperature",
+            "type": "RasterLayer"
+        },
+        {
+            "name": "LifeZone",
+            "type": "VectorLayer",
+            "tags": [
+                "classifier"
+            ]
+        }
+    ]
+}
