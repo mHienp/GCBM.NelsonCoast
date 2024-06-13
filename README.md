@@ -1,7 +1,8 @@
 <div align="center">
     <a href="https://moja.global/"><img src="https://github.com/moja-global.png" width="18%" height="18%"></a>
     <h1>GCBM.NelsonCoast</h1>
-    <p> GCBM implementation in Nelson Coast temperate forests, initially with a focus on DOM modelling. This project is based on the Standalone Template for the GCBM, downloaded from https://carbon.nfis.org/cbm </p>    
+    <p> GCBM implementation in Nelson Coast temperate forests, initially with a focus on DOM modelling. This project is based on the Standalone Template for the GCBM, downloaded from https://carbon.nfis.org/cbm </p>  
+    <img src="https://github.com/mHienp/GCBM.NelsonCoast/assets/106609690/77174437-e273-4189-9052-bc0b4c1e2839">
 </div>
 <hr>
 <details>
