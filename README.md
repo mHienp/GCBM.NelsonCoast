@@ -4,7 +4,7 @@
     <p> GCBM implementation in Nelson Coast temperate forests, initially with a focus on DOM modelling. This project is based on the Standalone Template for the GCBM, downloaded from https://carbon.nfis.org/cbm </p>  
 </div>
 
-![hansen2](https://github.com/mHienp/GCBM.NelsonCoast/assets/106609690/56e40d4b-cdd2-4db0-9455-b9007a507fd9)
+![hansennz](https://github.com/mHienp/GCBM.NelsonCoast/assets/106609690/69b16b0d-e3c7-4e79-957c-54897ed0243e)
 
 <hr>
 <details>
